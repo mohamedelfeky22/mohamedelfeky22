@@ -7,7 +7,7 @@
 
 - 🧐 Interested in **Software Engineering.**
 
-- 🔭 I’m currently working as **Junior Software Engineer(.Net & js) at Intalio-EverteamGS**
+- 🔭 I’m currently working as **Full Stack Software Engineer at Intalio**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohamedelfeky22](https://github.com/mohamedelfeky22)
 
